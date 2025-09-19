@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Packages/Entities">
+   </FileRef>
+   <FileRef
+      location = "group:Packages/Repositories">
+   </FileRef>
+   <FileRef
+      location = "group:Packages/Stores">
+   </FileRef>
+   <FileRef
+      location = "group:Packages/ViewStates">
+   </FileRef>
+   <FileRef
+      location = "group:Packages/Views">
+   </FileRef>
+   <FileRef
+      location = "group:Packages/Chatwork">
+   </FileRef>
+   <FileRef
+      location = "group:SVVSSample/SVVSSample.xcodeproj">
+   </FileRef>
+</Workspace>
